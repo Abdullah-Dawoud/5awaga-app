@@ -53,12 +53,19 @@ export default function Home() {
     setGameState('typing');
   };
 
-  const handleNextLevel = () => {
-    const nextLevel = currentLevelId + 1;
-    if (levelsData.some(l => l.level === nextLevel)) {
-      setCurrentLevelId(nextLevel);
-      setSentenceIndex(0);
-      setGameState('start');
+  const hasNextSentence = sentenceIndex < currentLevelData.sentences.length - 1;
+
+  const handleNext = () => {
+    if (hasNextSentence) {
+      setSentenceIndex(sentenceIndex + 1);
+      setGameState('typing');
+    } else {
+      const nextLevel = currentLevelId + 1;
+      if (levelsData.some(l => l.level === nextLevel)) {
+        setCurrentLevelId(nextLevel);
+        setSentenceIndex(0);
+        setGameState('start');
+      }
     }
   };
 
@@ -156,8 +163,9 @@ export default function Home() {
             accuracy={results.accuracy}
             level={currentLevelId}
             onRetry={handleRetry}
-            onNextLevel={handleNextLevel}
-            hasNextLevel={levelsData.some(l => l.level === currentLevelId + 1)}
+            onNext={handleNext}
+            hasNext={hasNextSentence || levelsData.some(l => l.level === currentLevelId + 1)}
+            nextLabel={hasNextSentence ? "Next Sentence" : "Next Level"}
           />
         )}
       </div>

@@ -9,8 +9,9 @@ interface ResultScreenProps {
   accuracy: number;
   level: number;
   onRetry: () => void;
-  onNextLevel: () => void;
-  hasNextLevel: boolean;
+  onNext: () => void;
+  hasNext: boolean;
+  nextLabel: string;
 }
 
 export default function ResultScreen({ 
@@ -18,8 +19,9 @@ export default function ResultScreen({
   accuracy, 
   level, 
   onRetry, 
-  onNextLevel,
-  hasNextLevel 
+  onNext,
+  hasNext,
+  nextLabel
 }: ResultScreenProps) {
   const [highScore, setHighScore] = useState<HighScore | null>(null);
 
@@ -54,14 +56,14 @@ export default function ResultScreen({
           className="flex items-center gap-2 px-6 py-3 rounded-lg font-medium bg-slate-800 hover:bg-slate-700 text-slate-200 transition-all focus:outline-none focus:ring-2 focus:ring-slate-500"
         >
           <RotateCcw className="w-5 h-5" />
-          Retry Level
+          Retry
         </button>
-        {hasNextLevel && (
+        {hasNext && (
           <button
-            onClick={onNextLevel}
+            onClick={onNext}
             className="flex items-center gap-2 px-6 py-3 rounded-lg font-medium bg-yellow-500 hover:bg-yellow-400 text-slate-950 transition-all focus:outline-none focus:ring-2 focus:ring-yellow-500"
           >
-            Next Level
+            {nextLabel}
             <ArrowRight className="w-5 h-5" />
           </button>
         )}
