@@ -1,0 +1,9 @@
+[
+  { "id": "daily", "name": "Daily Conversations", "description": "Common everyday interactions and small talk.", "icon": "Coffee" },
+  { "id": "tech", "name": "Technology & Programming", "description": "Tech industry jargon and software concepts.", "icon": "Code" },
+  { "id": "proverbs", "name": "Proverbs & Quotes", "description": "Timeless wisdom and famous sayings.", "icon": "Quote" },
+  { "id": "travel", "name": "Travel Phrases", "description": "Essential phrases for navigating the world.", "icon": "Plane" },
+  { "id": "business", "name": "Business English", "description": "Professional communication and workplace terminology.", "icon": "Briefcase" },
+  { "id": "academic", "name": "Academic Writing", "description": "Scholarly vocabulary and complex structures.", "icon": "GraduationCap" }
+]
+  

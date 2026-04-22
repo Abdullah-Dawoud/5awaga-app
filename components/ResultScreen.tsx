@@ -7,6 +7,7 @@ import { getProgress, HighScore } from '@/utils/storage';
 interface ResultScreenProps {
   wpm: number;
   accuracy: number;
+  categoryId: string;
   level: number;
   onRetry: () => void;
   onNext: () => void;
@@ -17,6 +18,7 @@ interface ResultScreenProps {
 export default function ResultScreen({ 
   wpm, 
   accuracy, 
+  categoryId,
   level, 
   onRetry, 
   onNext,
@@ -27,10 +29,10 @@ export default function ResultScreen({
 
   useEffect(() => {
     const data = getProgress();
-    if (data.highScores[level]) {
-      setHighScore(data.highScores[level]);
+    if (data.highScores[categoryId] && data.highScores[categoryId][level]) {
+      setHighScore(data.highScores[categoryId][level]);
     }
-  }, [level, wpm, accuracy]);
+  }, [categoryId, level, wpm, accuracy]);
 
   return (
     <div className="w-full max-w-2xl mx-auto flex flex-col items-center justify-center p-8 bg-slate-900/50 rounded-2xl border border-slate-800 backdrop-blur-sm animate-in fade-in zoom-in duration-300">
