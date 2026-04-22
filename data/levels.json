@@ -1,0 +1,23 @@
+[
+  {
+    "level": 1,
+    "sentences": [
+      { "id": 1, "en": "Hello world.", "ar": "مرحبا بالعالم." },
+      { "id": 2, "en": "Typing is fun.", "ar": "الطباعة ممتعة." }
+    ]
+  },
+  {
+    "level": 2,
+    "sentences": [
+      { "id": 3, "en": "Practice makes perfect.", "ar": "الممارسة تؤدي إلى الكمال." },
+      { "id": 4, "en": "The quick brown fox jumps over the lazy dog.", "ar": "الثعلب البني السريع يقفز فوق الكلب الكسول." }
+    ]
+  },
+  {
+    "level": 3,
+    "sentences": [
+      { "id": 5, "en": "A journey of a thousand miles begins with a single step.", "ar": "رحلة الألف ميل تبدأ بخطوة واحدة." },
+      { "id": 6, "en": "To be or not to be, that is the question.", "ar": "أن أكون أو لا أكون، هذا هو السؤال." }
+    ]
+  }
+]
