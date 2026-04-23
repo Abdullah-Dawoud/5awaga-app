@@ -559,53 +559,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Hello, how are you today? [proverbs]",
-          "ar": "مرحباً، كيف حالك اليوم؟ [proverbs]"
+          "en": "Hello, how are you today?",
+          "ar": "مرحباً، كيف حالك اليوم؟"
         },
         {
           "id": 2,
-          "en": "I would like a cup of coffee. [proverbs]",
-          "ar": "أريد كوباً من القهوة. [proverbs]"
+          "en": "I would like a cup of coffee.",
+          "ar": "أريد كوباً من القهوة."
         },
         {
           "id": 3,
-          "en": "What time is it now? [proverbs]",
-          "ar": "كم الساعة الآن؟ [proverbs]"
+          "en": "What time is it now?",
+          "ar": "كم الساعة الآن؟"
         },
         {
           "id": 4,
-          "en": "My name is John. [proverbs]",
-          "ar": "اسمي جون. [proverbs]"
+          "en": "My name is John.",
+          "ar": "اسمي جون."
         },
         {
           "id": 5,
-          "en": "See you tomorrow. [proverbs]",
-          "ar": "أراك غداً. [proverbs]"
+          "en": "See you tomorrow.",
+          "ar": "أراك غداً."
         },
         {
           "id": 6,
-          "en": "Thank you very much. [proverbs]",
-          "ar": "شكراً جزيلاً. [proverbs]"
+          "en": "Thank you very much.",
+          "ar": "شكراً جزيلاً."
         },
         {
           "id": 7,
-          "en": "Where is the bathroom? [proverbs]",
-          "ar": "أين الحمام؟ [proverbs]"
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
         },
         {
           "id": 8,
-          "en": "I am very tired. [proverbs]",
-          "ar": "أنا متعب جداً. [proverbs]"
+          "en": "I am very tired.",
+          "ar": "أنا متعب جداً."
         },
         {
           "id": 9,
-          "en": "Let's go home. [proverbs]",
-          "ar": "دعنا نذهب إلى المنزل. [proverbs]"
+          "en": "Let's go home.",
+          "ar": "دعنا نذهب إلى المنزل."
         },
         {
           "id": 10,
-          "en": "Have a good day. [proverbs]",
-          "ar": "أتمنى لك يوماً سعيداً. [proverbs]"
+          "en": "Have a good day.",
+          "ar": "أتمنى لك يوماً سعيداً."
         }
       ]
     },
@@ -614,53 +614,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "I usually wake up at seven in the morning. [proverbs]",
-          "ar": "عادة ما أستيقظ في السابعة صباحاً. [proverbs]"
+          "en": "I usually wake up at seven in the morning.",
+          "ar": "عادة ما أستيقظ في السابعة صباحاً."
         },
         {
           "id": 2,
-          "en": "Do you want to grab lunch together? [proverbs]",
-          "ar": "هل تريد تناول الغداء معاً؟ [proverbs]"
+          "en": "Do you want to grab lunch together?",
+          "ar": "هل تريد تناول الغداء معاً؟"
         },
         {
           "id": 3,
-          "en": "The weather is really nice outside. [proverbs]",
-          "ar": "الطقس جميل حقاً في الخارج. [proverbs]"
+          "en": "The weather is really nice outside.",
+          "ar": "الطقس جميل حقاً في الخارج."
         },
         {
           "id": 4,
-          "en": "I need to buy some groceries. [proverbs]",
-          "ar": "أحتاج لشراء بعض البقالة. [proverbs]"
+          "en": "I need to buy some groceries.",
+          "ar": "أحتاج لشراء بعض البقالة."
         },
         {
           "id": 5,
-          "en": "Can you help me with this task? [proverbs]",
-          "ar": "هل يمكنك مساعدتي في هذه المهمة؟ [proverbs]"
+          "en": "Can you help me with this task?",
+          "ar": "هل يمكنك مساعدتي في هذه المهمة؟"
         },
         {
           "id": 6,
-          "en": "Let's meet at the cafe down the street. [proverbs]",
-          "ar": "دعنا نلتقي في المقهى أسفل الشارع. [proverbs]"
+          "en": "Let's meet at the cafe down the street.",
+          "ar": "دعنا نلتقي في المقهى أسفل الشارع."
         },
         {
           "id": 7,
-          "en": "I forgot my keys at home. [proverbs]",
-          "ar": "نسيت مفاتيحي في المنزل. [proverbs]"
+          "en": "I forgot my keys at home.",
+          "ar": "نسيت مفاتيحي في المنزل."
         },
         {
           "id": 8,
-          "en": "What are your plans for the weekend? [proverbs]",
-          "ar": "ما هي خططك لعطلة نهاية الأسبوع؟ [proverbs]"
+          "en": "What are your plans for the weekend?",
+          "ar": "ما هي خططك لعطلة نهاية الأسبوع؟"
         },
         {
           "id": 9,
-          "en": "She called me earlier today. [proverbs]",
-          "ar": "لقد اتصلت بي في وقت سابق من اليوم. [proverbs]"
+          "en": "She called me earlier today.",
+          "ar": "لقد اتصلت بي في وقت سابق من اليوم."
         },
         {
           "id": 10,
-          "en": "I enjoy watching movies in my free time. [proverbs]",
-          "ar": "أستمتع بمشاهدة الأفلام في وقت فراغي. [proverbs]"
+          "en": "I enjoy watching movies in my free time.",
+          "ar": "أستمتع بمشاهدة الأفلام في وقت فراغي."
         }
       ]
     },
@@ -669,53 +669,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "I've been meaning to catch up with you for weeks. [proverbs]",
-          "ar": "كنت أنوي التواصل معك منذ أسابيع. [proverbs]"
+          "en": "I've been meaning to catch up with you for weeks.",
+          "ar": "كنت أنوي التواصل معك منذ أسابيع."
         },
         {
           "id": 2,
-          "en": "Let's figure out a schedule that works for everyone. [proverbs]",
-          "ar": "دعنا نحدد جدولاً يناسب الجميع. [proverbs]"
+          "en": "Let's figure out a schedule that works for everyone.",
+          "ar": "دعنا نحدد جدولاً يناسب الجميع."
         },
         {
           "id": 3,
-          "en": "I was taken aback by the sudden change of plans. [proverbs]",
-          "ar": "لقد تفاجأت بالتغيير المفاجئ في الخطط. [proverbs]"
+          "en": "I was taken aback by the sudden change of plans.",
+          "ar": "لقد تفاجأت بالتغيير المفاجئ في الخطط."
         },
         {
           "id": 4,
-          "en": "Could you please look over this document when you have a moment? [proverbs]",
-          "ar": "هل يمكنك مراجعة هذا المستند عندما يكون لديك وقت؟ [proverbs]"
+          "en": "Could you please look over this document when you have a moment?",
+          "ar": "هل يمكنك مراجعة هذا المستند عندما يكون لديك وقت؟"
         },
         {
           "id": 5,
-          "en": "We should probably wrap this up before it gets too late. [proverbs]",
-          "ar": "يجب أن ننهي هذا قبل أن يفوت الأوان. [proverbs]"
+          "en": "We should probably wrap this up before it gets too late.",
+          "ar": "يجب أن ننهي هذا قبل أن يفوت الأوان."
         },
         {
           "id": 6,
-          "en": "It turned out to be much harder than I initially thought. [proverbs]",
-          "ar": "لقد تبين أن الأمر أصعب بكثير مما اعتقدت في البداية. [proverbs]"
+          "en": "It turned out to be much harder than I initially thought.",
+          "ar": "لقد تبين أن الأمر أصعب بكثير مما اعتقدت في البداية."
         },
         {
           "id": 7,
-          "en": "I'll drop by your place tomorrow afternoon. [proverbs]",
-          "ar": "سأمر على منزلك غداً بعد الظهر. [proverbs]"
+          "en": "I'll drop by your place tomorrow afternoon.",
+          "ar": "سأمر على منزلك غداً بعد الظهر."
         },
         {
           "id": 8,
-          "en": "Make sure to keep me in the loop regarding the updates. [proverbs]",
-          "ar": "تأكد من إبقائي على اطلاع بخصوص التحديثات. [proverbs]"
+          "en": "Make sure to keep me in the loop regarding the updates.",
+          "ar": "تأكد من إبقائي على اطلاع بخصوص التحديثات."
         },
         {
           "id": 9,
-          "en": "I am really looking forward to the upcoming holidays. [proverbs]",
-          "ar": "أنا أتطلع حقاً إلى العطلات القادمة. [proverbs]"
+          "en": "I am really looking forward to the upcoming holidays.",
+          "ar": "أنا أتطلع حقاً إلى العطلات القادمة."
         },
         {
           "id": 10,
-          "en": "Don't hesitate to reach out if you need any further assistance. [proverbs]",
-          "ar": "لا تتردد في التواصل إذا كنت بحاجة إلى أي مساعدة إضافية. [proverbs]"
+          "en": "Don't hesitate to reach out if you need any further assistance.",
+          "ar": "لا تتردد في التواصل إذا كنت بحاجة إلى أي مساعدة إضافية."
         }
       ]
     },
@@ -724,53 +724,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "It goes without saying that your contribution was invaluable. [proverbs]",
-          "ar": "غني عن القول إن مساهمتك كانت لا تقدر بثمن. [proverbs]"
+          "en": "It goes without saying that your contribution was invaluable.",
+          "ar": "غني عن القول إن مساهمتك كانت لا تقدر بثمن."
         },
         {
           "id": 2,
-          "en": "We need to iron out the details before moving forward. [proverbs]",
-          "ar": "نحتاج إلى تسوية التفاصيل قبل المضي قدماً. [proverbs]"
+          "en": "We need to iron out the details before moving forward.",
+          "ar": "نحتاج إلى تسوية التفاصيل قبل المضي قدماً."
         },
         {
           "id": 3,
-          "en": "He tends to brush off criticism rather easily. [proverbs]",
-          "ar": "إنه يميل إلى تجاهل الانتقادات بسهولة بالغة. [proverbs]"
+          "en": "He tends to brush off criticism rather easily.",
+          "ar": "إنه يميل إلى تجاهل الانتقادات بسهولة بالغة."
         },
         {
           "id": 4,
-          "en": "I wouldn't bank on them arriving on time given the traffic. [proverbs]",
-          "ar": "لن أعتمد على وصولهم في الوقت المحدد نظراً للازدحام المروري. [proverbs]"
+          "en": "I wouldn't bank on them arriving on time given the traffic.",
+          "ar": "لن أعتمد على وصولهم في الوقت المحدد نظراً للازدحام المروري."
         },
         {
           "id": 5,
-          "en": "Let's touch base next week to review our progress. [proverbs]",
-          "ar": "دعنا نتواصل الأسبوع القادم لمراجعة تقدمنا. [proverbs]"
+          "en": "Let's touch base next week to review our progress.",
+          "ar": "دعنا نتواصل الأسبوع القادم لمراجعة تقدمنا."
         },
         {
           "id": 6,
-          "en": "She came across an incredibly rare artifact at the antique shop. [proverbs]",
-          "ar": "لقد صادفت قطعة أثرية نادرة بشكل لا يصدق في متجر التحف. [proverbs]"
+          "en": "She came across an incredibly rare artifact at the antique shop.",
+          "ar": "لقد صادفت قطعة أثرية نادرة بشكل لا يصدق في متجر التحف."
         },
         {
           "id": 7,
-          "en": "I'm trying to cut back on my sugar intake for health reasons. [proverbs]",
-          "ar": "أحاول التقليل من تناول السكر لأسباب صحية. [proverbs]"
+          "en": "I'm trying to cut back on my sugar intake for health reasons.",
+          "ar": "أحاول التقليل من تناول السكر لأسباب صحية."
         },
         {
           "id": 8,
-          "en": "It's imperative that we adhere strictly to the established guidelines. [proverbs]",
-          "ar": "من الضروري أن نلتزم بصرامة بالإرشادات المعمول بها. [proverbs]"
+          "en": "It's imperative that we adhere strictly to the established guidelines.",
+          "ar": "من الضروري أن نلتزم بصرامة بالإرشادات المعمول بها."
         },
         {
           "id": 9,
-          "en": "The project fell through due to a lack of adequate funding. [proverbs]",
-          "ar": "لقد فشل المشروع بسبب نقص التمويل الكافي. [proverbs]"
+          "en": "The project fell through due to a lack of adequate funding.",
+          "ar": "لقد فشل المشروع بسبب نقص التمويل الكافي."
         },
         {
           "id": 10,
-          "en": "You should weigh the pros and cons before making a rash decision. [proverbs]",
-          "ar": "يجب عليك الموازنة بين الإيجابيات والسلبيات قبل اتخاذ قرار متسرع. [proverbs]"
+          "en": "You should weigh the pros and cons before making a rash decision.",
+          "ar": "يجب عليك الموازنة بين الإيجابيات والسلبيات قبل اتخاذ قرار متسرع."
         }
       ]
     },
@@ -779,53 +779,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "His eloquent articulation of the issue left the audience captivated and pondering the underlying implications. [proverbs]",
-          "ar": "إن تعبيره البليغ عن المشكلة ترك الجمهور مفتوناً ويتأمل الآثار الكامنة. [proverbs]"
+          "en": "His eloquent articulation of the issue left the audience captivated and pondering the underlying implications.",
+          "ar": "إن تعبيره البليغ عن المشكلة ترك الجمهور مفتوناً ويتأمل الآثار الكامنة."
         },
         {
           "id": 2,
-          "en": "The ubiquitous nature of smartphones has inadvertently altered our cognitive processing mechanisms. [proverbs]",
-          "ar": "لقد أدت الطبيعة المنتشرة للهواتف الذكية إلى تغيير آليات المعالجة المعرفية لدينا عن غير قصد. [proverbs]"
+          "en": "The ubiquitous nature of smartphones has inadvertently altered our cognitive processing mechanisms.",
+          "ar": "لقد أدت الطبيعة المنتشرة للهواتف الذكية إلى تغيير آليات المعالجة المعرفية لدينا عن غير قصد."
         },
         {
           "id": 3,
-          "en": "She effortlessly juggled the multifaceted responsibilities demanded by her rigorous academic schedule. [proverbs]",
-          "ar": "لقد توفقت بسهولة بين المسؤوليات المتعددة الأوجه التي تطلبها جدولها الأكاديمي الصارم. [proverbs]"
+          "en": "She effortlessly juggled the multifaceted responsibilities demanded by her rigorous academic schedule.",
+          "ar": "لقد توفقت بسهولة بين المسؤوليات المتعددة الأوجه التي تطلبها جدولها الأكاديمي الصارم."
         },
         {
           "id": 4,
-          "en": "It is paramount that we mitigate the collateral consequences of our unilateral strategic maneuvers. [proverbs]",
-          "ar": "من الأهمية بمكان أن نخفف من التبعات الجانبية لمناوراتنا الاستراتيجية الأحادية الجانب. [proverbs]"
+          "en": "It is paramount that we mitigate the collateral consequences of our unilateral strategic maneuvers.",
+          "ar": "من الأهمية بمكان أن نخفف من التبعات الجانبية لمناوراتنا الاستراتيجية الأحادية الجانب."
         },
         {
           "id": 5,
-          "en": "The precarious economic landscape necessitates an agile and prudent approach to asset management. [proverbs]",
-          "ar": "يتطلب المشهد الاقتصادي غير المستقر نهجاً مرناً وحكيماً في إدارة الأصول. [proverbs]"
+          "en": "The precarious economic landscape necessitates an agile and prudent approach to asset management.",
+          "ar": "يتطلب المشهد الاقتصادي غير المستقر نهجاً مرناً وحكيماً في إدارة الأصول."
         },
         {
           "id": 6,
-          "en": "Despite the overwhelming consensus, he staunchly advocated for a diametrically opposed paradigm. [proverbs]",
-          "ar": "على الرغم من الإجماع الساحق، فقد دافع بشدة عن نموذج معاكس تماماً. [proverbs]"
+          "en": "Despite the overwhelming consensus, he staunchly advocated for a diametrically opposed paradigm.",
+          "ar": "على الرغم من الإجماع الساحق، فقد دافع بشدة عن نموذج معاكس تماماً."
         },
         {
           "id": 7,
-          "en": "Her unprecedented altruism galvanized the community into an outpouring of philanthropic endeavors. [proverbs]",
-          "ar": "أدى إيثارها غير المسبوق إلى تحفيز المجتمع على التدفق في المساعي الخيرية. [proverbs]"
+          "en": "Her unprecedented altruism galvanized the community into an outpouring of philanthropic endeavors.",
+          "ar": "أدى إيثارها غير المسبوق إلى تحفيز المجتمع على التدفق في المساعي الخيرية."
         },
         {
           "id": 8,
-          "en": "The juxtaposition of archaic methodologies with cutting-edge innovations creates a compelling dichotomy. [proverbs]",
-          "ar": "إن التجاور بين المنهجيات القديمة والابتكارات المتطورة يخلق تناقضاً مقنعاً. [proverbs]"
+          "en": "The juxtaposition of archaic methodologies with cutting-edge innovations creates a compelling dichotomy.",
+          "ar": "إن التجاور بين المنهجيات القديمة والابتكارات المتطورة يخلق تناقضاً مقنعاً."
         },
         {
           "id": 9,
-          "en": "Fostering a synergistic environment is quintessential for circumventing insurmountable systemic bottlenecks. [proverbs]",
-          "ar": "إن تعزيز بيئة تآزرية أمر جوهري لتجنب الاختناقات المنهجية المستعصية. [proverbs]"
+          "en": "Fostering a synergistic environment is quintessential for circumventing insurmountable systemic bottlenecks.",
+          "ar": "إن تعزيز بيئة تآزرية أمر جوهري لتجنب الاختناقات المنهجية المستعصية."
         },
         {
           "id": 10,
-          "en": "He deftly maneuvered through the bureaucratic labyrinth to expedite the ratification of the groundbreaking treaty. [proverbs]",
-          "ar": "لقد ناور ببراعة عبر المتاهة البيروقراطية لتسريع التصديق على المعاهدة الرائدة. [proverbs]"
+          "en": "He deftly maneuvered through the bureaucratic labyrinth to expedite the ratification of the groundbreaking treaty.",
+          "ar": "لقد ناور ببراعة عبر المتاهة البيروقراطية لتسريع التصديق على المعاهدة الرائدة."
         }
       ]
     }
@@ -836,53 +836,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Hello, how are you today? [travel]",
-          "ar": "مرحباً، كيف حالك اليوم؟ [travel]"
+          "en": "Hello, how are you today?",
+          "ar": "مرحباً، كيف حالك اليوم؟"
         },
         {
           "id": 2,
-          "en": "I would like a cup of coffee. [travel]",
-          "ar": "أريد كوباً من القهوة. [travel]"
+          "en": "I would like a cup of coffee.",
+          "ar": "أريد كوباً من القهوة."
         },
         {
           "id": 3,
-          "en": "What time is it now? [travel]",
-          "ar": "كم الساعة الآن؟ [travel]"
+          "en": "What time is it now?",
+          "ar": "كم الساعة الآن؟"
         },
         {
           "id": 4,
-          "en": "My name is John. [travel]",
-          "ar": "اسمي جون. [travel]"
+          "en": "My name is John.",
+          "ar": "اسمي جون."
         },
         {
           "id": 5,
-          "en": "See you tomorrow. [travel]",
-          "ar": "أراك غداً. [travel]"
+          "en": "See you tomorrow.",
+          "ar": "أراك غداً."
         },
         {
           "id": 6,
-          "en": "Thank you very much. [travel]",
-          "ar": "شكراً جزيلاً. [travel]"
+          "en": "Thank you very much.",
+          "ar": "شكراً جزيلاً."
         },
         {
           "id": 7,
-          "en": "Where is the bathroom? [travel]",
-          "ar": "أين الحمام؟ [travel]"
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
         },
         {
           "id": 8,
-          "en": "I am very tired. [travel]",
-          "ar": "أنا متعب جداً. [travel]"
+          "en": "I am very tired.",
+          "ar": "أنا متعب جداً."
         },
         {
           "id": 9,
-          "en": "Let's go home. [travel]",
-          "ar": "دعنا نذهب إلى المنزل. [travel]"
+          "en": "Let's go home.",
+          "ar": "دعنا نذهب إلى المنزل."
         },
         {
           "id": 10,
-          "en": "Have a good day. [travel]",
-          "ar": "أتمنى لك يوماً سعيداً. [travel]"
+          "en": "Have a good day.",
+          "ar": "أتمنى لك يوماً سعيداً."
         }
       ]
     },
@@ -891,53 +891,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "I usually wake up at seven in the morning. [travel]",
-          "ar": "عادة ما أستيقظ في السابعة صباحاً. [travel]"
+          "en": "I usually wake up at seven in the morning.",
+          "ar": "عادة ما أستيقظ في السابعة صباحاً."
         },
         {
           "id": 2,
-          "en": "Do you want to grab lunch together? [travel]",
-          "ar": "هل تريد تناول الغداء معاً؟ [travel]"
+          "en": "Do you want to grab lunch together?",
+          "ar": "هل تريد تناول الغداء معاً؟"
         },
         {
           "id": 3,
-          "en": "The weather is really nice outside. [travel]",
-          "ar": "الطقس جميل حقاً في الخارج. [travel]"
+          "en": "The weather is really nice outside.",
+          "ar": "الطقس جميل حقاً في الخارج."
         },
         {
           "id": 4,
-          "en": "I need to buy some groceries. [travel]",
-          "ar": "أحتاج لشراء بعض البقالة. [travel]"
+          "en": "I need to buy some groceries.",
+          "ar": "أحتاج لشراء بعض البقالة."
         },
         {
           "id": 5,
-          "en": "Can you help me with this task? [travel]",
-          "ar": "هل يمكنك مساعدتي في هذه المهمة؟ [travel]"
+          "en": "Can you help me with this task?",
+          "ar": "هل يمكنك مساعدتي في هذه المهمة؟"
         },
         {
           "id": 6,
-          "en": "Let's meet at the cafe down the street. [travel]",
-          "ar": "دعنا نلتقي في المقهى أسفل الشارع. [travel]"
+          "en": "Let's meet at the cafe down the street.",
+          "ar": "دعنا نلتقي في المقهى أسفل الشارع."
         },
         {
           "id": 7,
-          "en": "I forgot my keys at home. [travel]",
-          "ar": "نسيت مفاتيحي في المنزل. [travel]"
+          "en": "I forgot my keys at home.",
+          "ar": "نسيت مفاتيحي في المنزل."
         },
         {
           "id": 8,
-          "en": "What are your plans for the weekend? [travel]",
-          "ar": "ما هي خططك لعطلة نهاية الأسبوع؟ [travel]"
+          "en": "What are your plans for the weekend?",
+          "ar": "ما هي خططك لعطلة نهاية الأسبوع؟"
         },
         {
           "id": 9,
-          "en": "She called me earlier today. [travel]",
-          "ar": "لقد اتصلت بي في وقت سابق من اليوم. [travel]"
+          "en": "She called me earlier today.",
+          "ar": "لقد اتصلت بي في وقت سابق من اليوم."
         },
         {
           "id": 10,
-          "en": "I enjoy watching movies in my free time. [travel]",
-          "ar": "أستمتع بمشاهدة الأفلام في وقت فراغي. [travel]"
+          "en": "I enjoy watching movies in my free time.",
+          "ar": "أستمتع بمشاهدة الأفلام في وقت فراغي."
         }
       ]
     },
@@ -946,53 +946,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "I've been meaning to catch up with you for weeks. [travel]",
-          "ar": "كنت أنوي التواصل معك منذ أسابيع. [travel]"
+          "en": "I've been meaning to catch up with you for weeks.",
+          "ar": "كنت أنوي التواصل معك منذ أسابيع."
         },
         {
           "id": 2,
-          "en": "Let's figure out a schedule that works for everyone. [travel]",
-          "ar": "دعنا نحدد جدولاً يناسب الجميع. [travel]"
+          "en": "Let's figure out a schedule that works for everyone.",
+          "ar": "دعنا نحدد جدولاً يناسب الجميع."
         },
         {
           "id": 3,
-          "en": "I was taken aback by the sudden change of plans. [travel]",
-          "ar": "لقد تفاجأت بالتغيير المفاجئ في الخطط. [travel]"
+          "en": "I was taken aback by the sudden change of plans.",
+          "ar": "لقد تفاجأت بالتغيير المفاجئ في الخطط."
         },
         {
           "id": 4,
-          "en": "Could you please look over this document when you have a moment? [travel]",
-          "ar": "هل يمكنك مراجعة هذا المستند عندما يكون لديك وقت؟ [travel]"
+          "en": "Could you please look over this document when you have a moment?",
+          "ar": "هل يمكنك مراجعة هذا المستند عندما يكون لديك وقت؟"
         },
         {
           "id": 5,
-          "en": "We should probably wrap this up before it gets too late. [travel]",
-          "ar": "يجب أن ننهي هذا قبل أن يفوت الأوان. [travel]"
+          "en": "We should probably wrap this up before it gets too late.",
+          "ar": "يجب أن ننهي هذا قبل أن يفوت الأوان."
         },
         {
           "id": 6,
-          "en": "It turned out to be much harder than I initially thought. [travel]",
-          "ar": "لقد تبين أن الأمر أصعب بكثير مما اعتقدت في البداية. [travel]"
+          "en": "It turned out to be much harder than I initially thought.",
+          "ar": "لقد تبين أن الأمر أصعب بكثير مما اعتقدت في البداية."
         },
         {
           "id": 7,
-          "en": "I'll drop by your place tomorrow afternoon. [travel]",
-          "ar": "سأمر على منزلك غداً بعد الظهر. [travel]"
+          "en": "I'll drop by your place tomorrow afternoon.",
+          "ar": "سأمر على منزلك غداً بعد الظهر."
         },
         {
           "id": 8,
-          "en": "Make sure to keep me in the loop regarding the updates. [travel]",
-          "ar": "تأكد من إبقائي على اطلاع بخصوص التحديثات. [travel]"
+          "en": "Make sure to keep me in the loop regarding the updates.",
+          "ar": "تأكد من إبقائي على اطلاع بخصوص التحديثات."
         },
         {
           "id": 9,
-          "en": "I am really looking forward to the upcoming holidays. [travel]",
-          "ar": "أنا أتطلع حقاً إلى العطلات القادمة. [travel]"
+          "en": "I am really looking forward to the upcoming holidays.",
+          "ar": "أنا أتطلع حقاً إلى العطلات القادمة."
         },
         {
           "id": 10,
-          "en": "Don't hesitate to reach out if you need any further assistance. [travel]",
-          "ar": "لا تتردد في التواصل إذا كنت بحاجة إلى أي مساعدة إضافية. [travel]"
+          "en": "Don't hesitate to reach out if you need any further assistance.",
+          "ar": "لا تتردد في التواصل إذا كنت بحاجة إلى أي مساعدة إضافية."
         }
       ]
     },
@@ -1001,53 +1001,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "It goes without saying that your contribution was invaluable. [travel]",
-          "ar": "غني عن القول إن مساهمتك كانت لا تقدر بثمن. [travel]"
+          "en": "It goes without saying that your contribution was invaluable.",
+          "ar": "غني عن القول إن مساهمتك كانت لا تقدر بثمن."
         },
         {
           "id": 2,
-          "en": "We need to iron out the details before moving forward. [travel]",
-          "ar": "نحتاج إلى تسوية التفاصيل قبل المضي قدماً. [travel]"
+          "en": "We need to iron out the details before moving forward.",
+          "ar": "نحتاج إلى تسوية التفاصيل قبل المضي قدماً."
         },
         {
           "id": 3,
-          "en": "He tends to brush off criticism rather easily. [travel]",
-          "ar": "إنه يميل إلى تجاهل الانتقادات بسهولة بالغة. [travel]"
+          "en": "He tends to brush off criticism rather easily.",
+          "ar": "إنه يميل إلى تجاهل الانتقادات بسهولة بالغة."
         },
         {
           "id": 4,
-          "en": "I wouldn't bank on them arriving on time given the traffic. [travel]",
-          "ar": "لن أعتمد على وصولهم في الوقت المحدد نظراً للازدحام المروري. [travel]"
+          "en": "I wouldn't bank on them arriving on time given the traffic.",
+          "ar": "لن أعتمد على وصولهم في الوقت المحدد نظراً للازدحام المروري."
         },
         {
           "id": 5,
-          "en": "Let's touch base next week to review our progress. [travel]",
-          "ar": "دعنا نتواصل الأسبوع القادم لمراجعة تقدمنا. [travel]"
+          "en": "Let's touch base next week to review our progress.",
+          "ar": "دعنا نتواصل الأسبوع القادم لمراجعة تقدمنا."
         },
         {
           "id": 6,
-          "en": "She came across an incredibly rare artifact at the antique shop. [travel]",
-          "ar": "لقد صادفت قطعة أثرية نادرة بشكل لا يصدق في متجر التحف. [travel]"
+          "en": "She came across an incredibly rare artifact at the antique shop.",
+          "ar": "لقد صادفت قطعة أثرية نادرة بشكل لا يصدق في متجر التحف."
         },
         {
           "id": 7,
-          "en": "I'm trying to cut back on my sugar intake for health reasons. [travel]",
-          "ar": "أحاول التقليل من تناول السكر لأسباب صحية. [travel]"
+          "en": "I'm trying to cut back on my sugar intake for health reasons.",
+          "ar": "أحاول التقليل من تناول السكر لأسباب صحية."
         },
         {
           "id": 8,
-          "en": "It's imperative that we adhere strictly to the established guidelines. [travel]",
-          "ar": "من الضروري أن نلتزم بصرامة بالإرشادات المعمول بها. [travel]"
+          "en": "It's imperative that we adhere strictly to the established guidelines.",
+          "ar": "من الضروري أن نلتزم بصرامة بالإرشادات المعمول بها."
         },
         {
           "id": 9,
-          "en": "The project fell through due to a lack of adequate funding. [travel]",
-          "ar": "لقد فشل المشروع بسبب نقص التمويل الكافي. [travel]"
+          "en": "The project fell through due to a lack of adequate funding.",
+          "ar": "لقد فشل المشروع بسبب نقص التمويل الكافي."
         },
         {
           "id": 10,
-          "en": "You should weigh the pros and cons before making a rash decision. [travel]",
-          "ar": "يجب عليك الموازنة بين الإيجابيات والسلبيات قبل اتخاذ قرار متسرع. [travel]"
+          "en": "You should weigh the pros and cons before making a rash decision.",
+          "ar": "يجب عليك الموازنة بين الإيجابيات والسلبيات قبل اتخاذ قرار متسرع."
         }
       ]
     },
@@ -1056,53 +1056,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "His eloquent articulation of the issue left the audience captivated and pondering the underlying implications. [travel]",
-          "ar": "إن تعبيره البليغ عن المشكلة ترك الجمهور مفتوناً ويتأمل الآثار الكامنة. [travel]"
+          "en": "His eloquent articulation of the issue left the audience captivated and pondering the underlying implications.",
+          "ar": "إن تعبيره البليغ عن المشكلة ترك الجمهور مفتوناً ويتأمل الآثار الكامنة. "
         },
         {
           "id": 2,
-          "en": "The ubiquitous nature of smartphones has inadvertently altered our cognitive processing mechanisms. [travel]",
-          "ar": "لقد أدت الطبيعة المنتشرة للهواتف الذكية إلى تغيير آليات المعالجة المعرفية لدينا عن غير قصد. [travel]"
+          "en": "The ubiquitous nature of smartphones has inadvertently altered our cognitive processing mechanisms. ",
+          "ar": "لقد أدت الطبيعة المنتشرة للهواتف الذكية إلى تغيير آليات المعالجة المعرفية لدينا عن غير قصد. "
         },
         {
           "id": 3,
-          "en": "She effortlessly juggled the multifaceted responsibilities demanded by her rigorous academic schedule. [travel]",
-          "ar": "لقد توفقت بسهولة بين المسؤوليات المتعددة الأوجه التي تطلبها جدولها الأكاديمي الصارم. [travel]"
+          "en": "She effortlessly juggled the multifaceted responsibilities demanded by her rigorous academic schedule. ",
+          "ar": "لقد توفقت بسهولة بين المسؤوليات المتعددة الأوجه التي تطلبها جدولها الأكاديمي الصارم. "
         },
         {
           "id": 4,
-          "en": "It is paramount that we mitigate the collateral consequences of our unilateral strategic maneuvers. [travel]",
-          "ar": "من الأهمية بمكان أن نخفف من التبعات الجانبية لمناوراتنا الاستراتيجية الأحادية الجانب. [travel]"
+          "en": "It is paramount that we mitigate the collateral consequences of our unilateral strategic maneuvers. ",
+          "ar": "من الأهمية بمكان أن نخفف من التبعات الجانبية لمناوراتنا الاستراتيجية الأحادية الجانب. "
         },
         {
           "id": 5,
-          "en": "The precarious economic landscape necessitates an agile and prudent approach to asset management. [travel]",
-          "ar": "يتطلب المشهد الاقتصادي غير المستقر نهجاً مرناً وحكيماً في إدارة الأصول. [travel]"
+          "en": "The precarious economic landscape necessitates an agile and prudent approach to asset management. ",
+          "ar": "يتطلب المشهد الاقتصادي غير المستقر نهجاً مرناً وحكيماً في إدارة الأصول. "
         },
         {
           "id": 6,
-          "en": "Despite the overwhelming consensus, he staunchly advocated for a diametrically opposed paradigm. [travel]",
-          "ar": "على الرغم من الإجماع الساحق، فقد دافع بشدة عن نموذج معاكس تماماً. [travel]"
+          "en": "Despite the overwhelming consensus, he staunchly advocated for a diametrically opposed paradigm. ",
+          "ar": "على الرغم من الإجماع الساحق، فقد دافع بشدة عن نموذج معاكس تماماً. "
         },
         {
           "id": 7,
-          "en": "Her unprecedented altruism galvanized the community into an outpouring of philanthropic endeavors. [travel]",
-          "ar": "أدى إيثارها غير المسبوق إلى تحفيز المجتمع على التدفق في المساعي الخيرية. [travel]"
+          "en": "Her unprecedented altruism galvanized the community into an outpouring of philanthropic endeavors. ",
+          "ar": "أدى إيثارها غير المسبوق إلى تحفيز المجتمع على التدفق في المساعي الخيرية. "
         },
         {
           "id": 8,
-          "en": "The juxtaposition of archaic methodologies with cutting-edge innovations creates a compelling dichotomy. [travel]",
-          "ar": "إن التجاور بين المنهجيات القديمة والابتكارات المتطورة يخلق تناقضاً مقنعاً. [travel]"
+          "en": "The juxtaposition of archaic methodologies with cutting-edge innovations creates a compelling dichotomy. ",
+          "ar": "إن التجاور بين المنهجيات القديمة والابتكارات المتطورة يخلق تناقضاً مقنعاً. "
         },
         {
           "id": 9,
-          "en": "Fostering a synergistic environment is quintessential for circumventing insurmountable systemic bottlenecks. [travel]",
-          "ar": "إن تعزيز بيئة تآزرية أمر جوهري لتجنب الاختناقات المنهجية المستعصية. [travel]"
+          "en": "Fostering a synergistic environment is quintessential for circumventing insurmountable systemic bottlenecks. ",
+          "ar": "إن تعزيز بيئة تآزرية أمر جوهري لتجنب الاختناقات المنهجية المستعصية. "
         },
         {
           "id": 10,
-          "en": "He deftly maneuvered through the bureaucratic labyrinth to expedite the ratification of the groundbreaking treaty. [travel]",
-          "ar": "لقد ناور ببراعة عبر المتاهة البيروقراطية لتسريع التصديق على المعاهدة الرائدة. [travel]"
+          "en": "He deftly maneuvered through the bureaucratic labyrinth to expedite the ratification of the groundbreaking treaty.",
+          "ar": "لقد ناور ببراعة عبر المتاهة البيروقراطية لتسريع التصديق على المعاهدة الرائدة."
         }
       ]
     }
@@ -1113,53 +1113,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "The computer is on. [business]",
-          "ar": "الكمبيوتر قيد التشغيل. [business]"
+          "en": "The computer is on.",
+          "ar": "الكمبيوتر قيد التشغيل."
         },
         {
           "id": 2,
-          "en": "I need to write code. [business]",
-          "ar": "أحتاج إلى كتابة كود. [business]"
+          "en": "I need to write code.",
+          "ar": "أحتاج إلى كتابة كود."
         },
         {
           "id": 3,
-          "en": "Save your file now. [business]",
-          "ar": "احفظ ملفك الآن. [business]"
+          "en": "Save your file now.",
+          "ar": "احفظ ملفك الآن."
         },
         {
           "id": 4,
-          "en": "The screen is blank. [business]",
-          "ar": "الشاشة فارغة. [business]"
+          "en": "The screen is blank.",
+          "ar": "الشاشة فارغة."
         },
         {
           "id": 5,
-          "en": "Click the start button. [business]",
-          "ar": "انقر فوق زر البدء. [business]"
+          "en": "Click the start button.",
+          "ar": "انقر فوق زر البدء."
         },
         {
           "id": 6,
-          "en": "Type your password. [business]",
-          "ar": "اكتب كلمة المرور الخاصة بك. [business]"
+          "en": "Type your password.",
+          "ar": "اكتب كلمة المرور الخاصة بك."
         },
         {
           "id": 7,
-          "en": "The internet is fast. [business]",
-          "ar": "الإنترنت سريع. [business]"
+          "en": "The internet is fast.",
+          "ar": "الإنترنت سريع."
         },
         {
           "id": 8,
-          "en": "Download the app here. [business]",
-          "ar": "قم بتنزيل التطبيق هنا. [business]"
+          "en": "Download the app here.",
+          "ar": "قم بتنزيل التطبيق هنا."
         },
         {
           "id": 9,
-          "en": "Open a new tab. [business]",
-          "ar": "افتح علامة تبويب جديدة. [business]"
+          "en": "Open a new tab.",
+          "ar": "افتح علامة تبويب جديدة."
         },
         {
           "id": 10,
-          "en": "Restart the machine. [business]",
-          "ar": "أعد تشغيل الجهاز. [business]"
+          "en": "Restart the machine.",
+          "ar": "أعد تشغيل الجهاز."
         }
       ]
     },
@@ -1168,53 +1168,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Make sure to commit your changes to the repository. [business]",
-          "ar": "تأكد من حفظ تغييراتك في المستودع. [business]"
+          "en": "Make sure to commit your changes to the repository.",
+          "ar": "تأكد من حفظ تغييراتك في المستودع."
         },
         {
           "id": 2,
-          "en": "The server is currently experiencing high latency. [business]",
-          "ar": "يعاني الخادم حالياً من زمن انتقال مرتفع. [business]"
+          "en": "The server is currently experiencing high latency.",
+          "ar": "يعاني الخادم حالياً من زمن انتقال مرتفع."
         },
         {
           "id": 3,
-          "en": "We need to debug this application before release. [business]",
-          "ar": "نحتاج إلى تصحيح أخطاء هذا التطبيق قبل إصداره. [business]"
+          "en": "We need to debug this application before release.",
+          "ar": "نحتاج إلى تصحيح أخطاء هذا التطبيق قبل إصداره."
         },
         {
           "id": 4,
-          "en": "Clear the browser cache to see the latest updates. [business]",
-          "ar": "امسح ذاكرة التخزين المؤقت للمتصفح لرؤية آخر التحديثات. [business]"
+          "en": "Clear the browser cache to see the latest updates.",
+          "ar": "امسح ذاكرة التخزين المؤقت للمتصفح لرؤية آخر التحديثات."
         },
         {
           "id": 5,
-          "en": "The database connection failed unexpectedly. [business]",
-          "ar": "فشل الاتصال بقاعدة البيانات بشكل غير متوقع. [business]"
+          "en": "The database connection failed unexpectedly.",
+          "ar": "فشل الاتصال بقاعدة البيانات بشكل غير متوقع."
         },
         {
           "id": 6,
-          "en": "Please deploy the new build to the staging environment. [business]",
-          "ar": "يرجى نشر البنية الجديدة في بيئة الاختبار. [business]"
+          "en": "Please deploy the new build to the staging environment.",
+          "ar": "يرجى نشر البنية الجديدة في بيئة الاختبار."
         },
         {
           "id": 7,
-          "en": "This function returns a boolean value. [business]",
-          "ar": "تقوم هذه الدالة بإرجاع قيمة منطقية. [business]"
+          "en": "This function returns a boolean value.",
+          "ar": "تقوم هذه الدالة بإرجاع قيمة منطقية."
         },
         {
           "id": 8,
-          "en": "We are migrating to a cloud-based infrastructure. [business]",
-          "ar": "نحن ننتقل إلى بنية تحتية قائمة على السحابة. [business]"
+          "en": "We are migrating to a cloud-based infrastructure.",
+          "ar": "نحن ننتقل إلى بنية تحتية قائمة على السحابة."
         },
         {
           "id": 9,
-          "en": "Install the dependencies using the package manager. [business]",
-          "ar": "قم بتثبيت التبعيات باستخدام مدير الحزم. [business]"
+          "en": "Install the dependencies using the package manager.",
+          "ar": "قم بتثبيت التبعيات باستخدام مدير الحزم."
         },
         {
           "id": 10,
-          "en": "The user interface needs to be fully responsive. [business]",
-          "ar": "يجب أن تكون واجهة المستخدم متجاوبة بالكامل. [business]"
+          "en": "The user interface needs to be fully responsive.",
+          "ar": "يجب أن تكون واجهة المستخدم متجاوبة بالكامل."
         }
       ]
     },
@@ -1223,53 +1223,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Asynchronous operations prevent the main thread from blocking. [business]",
-          "ar": "تمنع العمليات غير المتزامنة الخيط الرئيسي من التوقف. [business]"
+          "en": "Asynchronous operations prevent the main thread from blocking.",
+          "ar": "تمنع العمليات غير المتزامنة الخيط الرئيسي من التوقف."
         },
         {
           "id": 2,
-          "en": "We implemented a RESTful API for seamless integration. [business]",
-          "ar": "قمنا بتنفيذ واجهة برمجة تطبيقات RESTful لتكامل سلس. [business]"
+          "en": "We implemented a RESTful API for seamless integration.",
+          "ar": "قمنا بتنفيذ واجهة برمجة تطبيقات RESTful لتكامل سلس."
         },
         {
           "id": 3,
-          "en": "Memory leaks can cause the application to crash over time. [business]",
-          "ar": "يمكن أن تتسبب تسربات الذاكرة في تعطل التطبيق بمرور الوقت. [business]"
+          "en": "Memory leaks can cause the application to crash over time.",
+          "ar": "يمكن أن تتسبب تسربات الذاكرة في تعطل التطبيق بمرور الوقت."
         },
         {
           "id": 4,
-          "en": "Polymorphism allows objects to be treated as instances of their parent class. [business]",
-          "ar": "يسمح تعدد الأشكال بمعاملة الكائنات كنسخ من فئتها الأصلية. [business]"
+          "en": "Polymorphism allows objects to be treated as instances of their parent class.",
+          "ar": "يسمح تعدد الأشكال بمعاملة الكائنات كنسخ من فئتها الأصلية."
         },
         {
           "id": 5,
-          "en": "Use version control to collaborate efficiently with your team. [business]",
-          "ar": "استخدم التحكم في الإصدار للتعاون بكفاءة مع فريقك. [business]"
+          "en": "Use version control to collaborate efficiently with your team.",
+          "ar": "استخدم التحكم في الإصدار للتعاون بكفاءة مع فريقك."
         },
         {
           "id": 6,
-          "en": "The algorithm's time complexity is strictly linear. [business]",
-          "ar": "التعقيد الزمني للخوارزمية خطي تماماً. [business]"
+          "en": "The algorithm's time complexity is strictly linear.",
+          "ar": "التعقيد الزمني للخوارزمية خطي تماماً."
         },
         {
           "id": 7,
-          "en": "Continuous integration automates the testing and deployment process. [business]",
-          "ar": "التكامل المستمر يسهل أتمتة عملية الاختبار والنشر. [business]"
+          "en": "Continuous integration automates the testing and deployment process.",
+          "ar": "التكامل المستمر يسهل أتمتة عملية الاختبار والنشر."
         },
         {
           "id": 8,
-          "en": "We need to optimize the SQL queries to reduce load times. [business]",
-          "ar": "نحتاج إلى تحسين استعلامات SQL لتقليل أوقات التحميل. [business]"
+          "en": "We need to optimize the SQL queries to reduce load times.",
+          "ar": "نحتاج إلى تحسين استعلامات SQL لتقليل أوقات التحميل."
         },
         {
           "id": 9,
-          "en": "Encapsulation hides the internal state of an object from the outside. [business]",
-          "ar": "التغليف يخفي الحالة الداخلية للكائن عن الخارج. [business]"
+          "en": "Encapsulation hides the internal state of an object from the outside.",
+          "ar": "التغليف يخفي الحالة الداخلية للكائن عن الخارج."
         },
         {
           "id": 10,
-          "en": "Ensure that the payload is serialized correctly before transmission. [business]",
-          "ar": "تأكد من تسلسل حمولة البيانات بشكل صحيح قبل الإرسال. [business]"
+          "en": "Ensure that the payload is serialized correctly before transmission.",
+          "ar": "تأكد من تسلسل حمولة البيانات بشكل صحيح قبل الإرسال."
         }
       ]
     },
@@ -1278,53 +1278,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "The microservices architecture decouples monolithic applications into modular, deployable components. [business]",
-          "ar": "تقوم بنية الخدمات المصغرة بفصل التطبيقات المتجانسة إلى مكونات معيارية قابلة للنشر. [business]"
+          "en": "The microservices architecture decouples monolithic applications into modular, deployable components.",
+          "ar": "تقوم بنية الخدمات المصغرة بفصل التطبيقات المتجانسة إلى مكونات معيارية قابلة للنشر."
         },
         {
           "id": 2,
-          "en": "Leveraging caching mechanisms significantly mitigates redundant database queries. [business]",
-          "ar": "الاستفادة من آليات التخزين المؤقت تخفف بشكل كبير من استعلامات قاعدة البيانات المتكررة. [business]"
+          "en": "Leveraging caching mechanisms significantly mitigates redundant database queries.",
+          "ar": "الاستفادة من آليات التخزين المؤقت تخفف بشكل كبير من استعلامات قاعدة البيانات المتكررة."
         },
         {
           "id": 3,
-          "en": "The consensus algorithm ensures fault tolerance across the distributed ledger nodes. [business]",
-          "ar": "تضمن خوارزمية الإجماع التسامح مع الأخطاء عبر عقد دفتر الأستاذ الموزع. [business]"
+          "en": "The consensus algorithm ensures fault tolerance across the distributed ledger nodes.",
+          "ar": "تضمن خوارزمية الإجماع التسامح مع الأخطاء عبر عقد دفتر الأستاذ الموزع."
         },
         {
           "id": 4,
-          "en": "We must containerize the dependencies to ensure parity across diverse environments. [business]",
-          "ar": "يجب علينا تعبئة التبعيات في حاويات لضمان التكافؤ عبر البيئات المتنوعة. [business]"
+          "en": "We must containerize the dependencies to ensure parity across diverse environments.",
+          "ar": "يجب علينا تعبئة التبعيات في حاويات لضمان التكافؤ عبر البيئات المتنوعة."
         },
         {
           "id": 5,
-          "en": "Idempotent HTTP methods guarantee that multiple identical requests yield the same state. [business]",
-          "ar": "تضمن طرق HTTP ذات الفعالية المتطابقة أن الطلبات المتطابقة المتعددة تؤدي إلى نفس الحالة. [business]"
+          "en": "Idempotent HTTP methods guarantee that multiple identical requests yield the same state.",
+          "ar": "تضمن طرق HTTP ذات الفعالية المتطابقة أن الطلبات المتطابقة المتعددة تؤدي إلى نفس الحالة."
         },
         {
           "id": 6,
-          "en": "Type erasure in generic programming removes type parameters during compilation. [business]",
-          "ar": "إزالة النوع في البرمجة العامة تزيل معلمات النوع أثناء التجميع. [business]"
+          "en": "Type erasure in generic programming removes type parameters during compilation.",
+          "ar": "إزالة النوع في البرمجة العامة تزيل معلمات النوع أثناء التجميع."
         },
         {
           "id": 7,
-          "en": "A race condition occurs when concurrent threads access shared memory asynchronously. [business]",
-          "ar": "تحدث حالة السباق عندما تصل الخيوط المتزامنة إلى الذاكرة المشتركة بشكل غير متزامن. [business]"
+          "en": "A race condition occurs when concurrent threads access shared memory asynchronously.",
+          "ar": "تحدث حالة السباق عندما تصل الخيوط المتزامنة إلى الذاكرة المشتركة بشكل غير متزامن."
         },
         {
           "id": 8,
-          "en": "We utilized a reverse proxy to balance the load and obfuscate the internal topology. [business]",
-          "ar": "لقد استخدمنا وكيلاً عكسياً لموازنة الحمل وإخفاء الطوبولوجيا الداخلية. [business]"
+          "en": "We utilized a reverse proxy to balance the load and obfuscate the internal topology.",
+          "ar": "لقد استخدمنا وكيلاً عكسياً لموازنة الحمل وإخفاء الطوبولوجيا الداخلية."
         },
         {
           "id": 9,
-          "en": "The garbage collector deterministically reclaims memory allocated to unreachable object graphs. [business]",
-          "ar": "يستعيد جامع القمامة بشكل حتمي الذاكرة المخصصة لرسومات الكائنات التي لا يمكن الوصول إليها. [business]"
+          "en": "The garbage collector deterministically reclaims memory allocated to unreachable object graphs.",
+          "ar": "يستعيد جامع القمامة بشكل حتمي الذاكرة المخصصة لرسومات الكائنات التي لا يمكن الوصول إليها."
         },
         {
           "id": 10,
-          "en": "Implementing OAuth2 provides a robust framework for federated identity delegation. [business]",
-          "ar": "يوفر تنفيذ OAuth2 إطار عمل قوي لتفويض الهوية الموحدة. [business]"
+          "en": "Implementing OAuth2 provides a robust framework for federated identity delegation.",
+          "ar": "يوفر تنفيذ OAuth2 إطار عمل قوي لتفويض الهوية الموحدة."
         }
       ]
     },
@@ -1333,53 +1333,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Cryptographic hash functions obfuscate plain text via irreversible permutations to guarantee data integrity. [business]",
-          "ar": "تقوم وظائف التجزئة التشفيرية بإخفاء النص العادي عبر تباديل لا رجعة فيها لضمان سلامة البيانات. [business]"
+          "en": "Cryptographic hash functions obfuscate plain text via irreversible permutations to guarantee data integrity.",
+          "ar": "تقوم وظائف التجزئة التشفيرية بإخفاء النص العادي عبر تباديل لا رجعة فيها لضمان سلامة البيانات."
         },
         {
           "id": 2,
-          "en": "Heuristic anomalies detected within the neural network's hidden layers prompted a recalibration of the hyper-parameters. [business]",
-          "ar": "أدت الحالات الشاذة الإرشادية المكتشفة داخل الطبقات المخفية للشبكة العصبية إلى إعادة معايرة المعلمات الفائقة. [business]"
+          "en": "Heuristic anomalies detected within the neural network's hidden layers prompted a recalibration of the hyper-parameters.",
+          "ar": "أدت الحالات الشاذة الإرشادية المكتشفة داخل الطبقات المخفية للشبكة العصبية إلى إعادة معايرة المعلمات الفائقة."
         },
         {
           "id": 3,
-          "en": "Abstract Syntax Trees systematically delineate the hierarchical syntactic structure of source code for parsers. [business]",
-          "ar": "تحدد أشجار بناء الجملة المجردة بشكل منهجي البنية النحوية الهرمية لكود المصدر للمحللات. [business]"
+          "en": "Abstract Syntax Trees systematically delineate the hierarchical syntactic structure of source code for parsers.",
+          "ar": "تحدد أشجار بناء الجملة المجردة بشكل منهجي البنية النحوية الهرمية لكود المصدر للمحللات."
         },
         {
           "id": 4,
-          "en": "Asymptotic notation provides a generalized mathematical framework for analyzing an algorithm's worst-case computational viability. [business]",
-          "ar": "يوفر التدوين المقارب إطاراً رياضياً معمماً لتحليل الجدوى الحسابية للخوارزمية في أسوأ الحالات. [business]"
+          "en": "Asymptotic notation provides a generalized mathematical framework for analyzing an algorithm's worst-case computational viability.",
+          "ar": "يوفر التدوين المقارب إطاراً رياضياً معمماً لتحليل الجدوى الحسابية للخوارزمية في أسوأ الحالات."
         },
         {
           "id": 5,
-          "en": "The polymorphic dispatch mechanism incurs a minuscule overhead due to dynamic v-table resolutions at runtime. [business]",
-          "ar": "تتكبد آلية الإرسال متعدد الأشكال حملاً ضئيلاً جداً بسبب دقة جدول v الديناميكي في وقت التشغيل. [business]"
+          "en": "The polymorphic dispatch mechanism incurs a minuscule overhead due to dynamic v-table resolutions at runtime.",
+          "ar": "تتكبد آلية الإرسال متعدد الأشكال حملاً ضئيلاً جداً بسبب دقة جدول v الديناميكي في وقت التشغيل."
         },
         {
           "id": 6,
-          "en": "Implementing exponential backoff algorithms mitigates transient network congestion during retry attempts. [business]",
-          "ar": "يؤدي تنفيذ خوارزميات التراجع الأسي إلى تخفيف ازدحام الشبكة العابر أثناء محاولات إعادة المحاولة. [business]"
+          "en": "Implementing exponential backoff algorithms mitigates transient network congestion during retry attempts.",
+          "ar": "يؤدي تنفيذ خوارزميات التراجع الأسي إلى تخفيف ازدحام الشبكة العابر أثناء محاولات إعادة المحاولة."
         },
         {
           "id": 7,
-          "en": "Quantum entanglement facilitates instantaneous state correlation, circumventing classical cryptographic constraints. [business]",
-          "ar": "يسهل التشابك الكمي الارتباط اللحظي للحالة، متجاوزاً القيود التشفيرية الكلاسيكية. [business]"
+          "en": "Quantum entanglement facilitates instantaneous state correlation, circumventing classical cryptographic constraints.",
+          "ar": "يسهل التشابك الكمي الارتباط اللحظي للحالة، متجاوزاً القيود التشفيرية الكلاسيكية."
         },
         {
           "id": 8,
-          "en": "A closure encapsulates the lexical scope, thereby preserving variable references beyond the function's execution context. [business]",
-          "ar": "يغلف الإغلاق النطاق المعجمي، وبالتالي يحافظ على مراجع المتغيرات خارج سياق تنفيذ الوظيفة. [business]"
+          "en": "A closure encapsulates the lexical scope, thereby preserving variable references beyond the function's execution context.",
+          "ar": "يغلف الإغلاق النطاق المعجمي، وبالتالي يحافظ على مراجع المتغيرات خارج سياق تنفيذ الوظيفة."
         },
         {
           "id": 9,
-          "en": "Synchronous multiplexing paradigms often falter when juxtaposed with highly concurrent, event-driven architectures. [business]",
-          "ar": "غالباً ما تتعثر نماذج تعدد الإرسال المتزامن عندما تقترن ببنيات مدفوعة بالأحداث وعالية التزامن. [business]"
+          "en": "Synchronous multiplexing paradigms often falter when juxtaposed with highly concurrent, event-driven architectures.",
+          "ar": "غالباً ما تتعثر نماذج تعدد الإرسال المتزامن عندما تقترن ببنيات مدفوعة بالأحداث وعالية التزامن."
         },
         {
           "id": 10,
-          "en": "The orchestration engine dynamically provisions ephemeral instances to proactively accommodate fluctuating throughput demands. [business]",
-          "ar": "يقوم محرك التنسيق بتوفير مثيلات سريعة الزوال ديناميكياً لاستيعاب متطلبات الإنتاجية المتقلبة بشكل استباقي. [business]"
+          "en": "The orchestration engine dynamically provisions ephemeral instances to proactively accommodate fluctuating throughput demands.",
+          "ar": "يقوم محرك التنسيق بتوفير مثيلات سريعة الزوال ديناميكياً لاستيعاب متطلبات الإنتاجية المتقلبة بشكل استباقي."
         }
       ]
     }
@@ -1390,53 +1390,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "The computer is on. [academic]",
-          "ar": "الكمبيوتر قيد التشغيل. [academic]"
+          "en": "The computer is on.",
+          "ar": "الكمبيوتر قيد التشغيل."
         },
         {
           "id": 2,
-          "en": "I need to write code. [academic]",
-          "ar": "أحتاج إلى كتابة كود. [academic]"
+          "en": "I need to write code.",
+          "ar": "أحتاج إلى كتابة كود."
         },
         {
           "id": 3,
-          "en": "Save your file now. [academic]",
-          "ar": "احفظ ملفك الآن. [academic]"
+          "en": "Save your file now.",
+          "ar": "احفظ ملفك الآن."
         },
         {
           "id": 4,
-          "en": "The screen is blank. [academic]",
-          "ar": "الشاشة فارغة. [academic]"
+          "en": "The screen is blank.",
+          "ar": "الشاشة فارغة."
         },
         {
           "id": 5,
-          "en": "Click the start button. [academic]",
-          "ar": "انقر فوق زر البدء. [academic]"
+          "en": "Click the start button.",
+          "ar": "انقر فوق زر البدء."
         },
         {
           "id": 6,
-          "en": "Type your password. [academic]",
-          "ar": "اكتب كلمة المرور الخاصة بك. [academic]"
+          "en": "Type your password.",
+          "ar": "اكتب كلمة المرور الخاصة بك."
         },
         {
           "id": 7,
-          "en": "The internet is fast. [academic]",
-          "ar": "الإنترنت سريع. [academic]"
+          "en": "The internet is fast.",
+          "ar": "الإنترنت سريع."
         },
         {
           "id": 8,
-          "en": "Download the app here. [academic]",
-          "ar": "قم بتنزيل التطبيق هنا. [academic]"
+          "en": "Download the app here.",
+          "ar": "قم بتنزيل التطبيق هنا."
         },
         {
           "id": 9,
-          "en": "Open a new tab. [academic]",
-          "ar": "افتح علامة تبويب جديدة. [academic]"
+          "en": "Open a new tab.",
+          "ar": "افتح علامة تبويب جديدة."
         },
         {
           "id": 10,
-          "en": "Restart the machine. [academic]",
-          "ar": "أعد تشغيل الجهاز. [academic]"
+          "en": "Restart the machine.",
+          "ar": "أعد تشغيل الجهاز."
         }
       ]
     },
@@ -1445,53 +1445,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Make sure to commit your changes to the repository. [academic]",
-          "ar": "تأكد من حفظ تغييراتك في المستودع. [academic]"
+          "en": "Make sure to commit your changes to the repository.",
+          "ar": "تأكد من حفظ تغييراتك في المستودع."
         },
         {
           "id": 2,
-          "en": "The server is currently experiencing high latency. [academic]",
-          "ar": "يعاني الخادم حالياً من زمن انتقال مرتفع. [academic]"
+          "en": "The server is currently experiencing high latency.",
+          "ar": "يعاني الخادم حالياً من زمن انتقال مرتفع."
         },
         {
           "id": 3,
-          "en": "We need to debug this application before release. [academic]",
-          "ar": "نحتاج إلى تصحيح أخطاء هذا التطبيق قبل إصداره. [academic]"
+          "en": "We need to debug this application before release.",
+          "ar": "نحتاج إلى تصحيح أخطاء هذا التطبيق قبل إصداره."
         },
         {
           "id": 4,
-          "en": "Clear the browser cache to see the latest updates. [academic]",
-          "ar": "امسح ذاكرة التخزين المؤقت للمتصفح لرؤية آخر التحديثات. [academic]"
+          "en": "Clear the browser cache to see the latest updates.",
+          "ar": "امسح ذاكرة التخزين المؤقت للمتصفح لرؤية آخر التحديثات."
         },
         {
           "id": 5,
-          "en": "The database connection failed unexpectedly. [academic]",
-          "ar": "فشل الاتصال بقاعدة البيانات بشكل غير متوقع. [academic]"
+          "en": "The database connection failed unexpectedly.",
+          "ar": "فشل الاتصال بقاعدة البيانات بشكل غير متوقع."
         },
         {
           "id": 6,
-          "en": "Please deploy the new build to the staging environment. [academic]",
-          "ar": "يرجى نشر البنية الجديدة في بيئة الاختبار. [academic]"
+          "en": "Please deploy the new build to the staging environment.",
+          "ar": "يرجى نشر البنية الجديدة في بيئة الاختبار."
         },
         {
           "id": 7,
-          "en": "This function returns a boolean value. [academic]",
-          "ar": "تقوم هذه الدالة بإرجاع قيمة منطقية. [academic]"
+          "en": "This function returns a boolean value.",
+          "ar": "تقوم هذه الدالة بإرجاع قيمة منطقية."
         },
         {
           "id": 8,
-          "en": "We are migrating to a cloud-based infrastructure. [academic]",
-          "ar": "نحن ننتقل إلى بنية تحتية قائمة على السحابة. [academic]"
+          "en": "We are migrating to a cloud-based infrastructure.",
+          "ar": "نحن ننتقل إلى بنية تحتية قائمة على السحابة."
         },
         {
           "id": 9,
-          "en": "Install the dependencies using the package manager. [academic]",
-          "ar": "قم بتثبيت التبعيات باستخدام مدير الحزم. [academic]"
+          "en": "Install the dependencies using the package manager.",
+          "ar": "قم بتثبيت التبعيات باستخدام مدير الحزم."
         },
         {
           "id": 10,
-          "en": "The user interface needs to be fully responsive. [academic]",
-          "ar": "يجب أن تكون واجهة المستخدم متجاوبة بالكامل. [academic]"
+          "en": "The user interface needs to be fully responsive.",
+          "ar": "يجب أن تكون واجهة المستخدم متجاوبة بالكامل."
         }
       ]
     },
@@ -1500,53 +1500,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Asynchronous operations prevent the main thread from blocking. [academic]",
-          "ar": "تمنع العمليات غير المتزامنة الخيط الرئيسي من التوقف. [academic]"
+          "en": "Asynchronous operations prevent the main thread from blocking.",
+          "ar": "تمنع العمليات غير المتزامنة الخيط الرئيسي من التوقف."
         },
         {
           "id": 2,
-          "en": "We implemented a RESTful API for seamless integration. [academic]",
-          "ar": "قمنا بتنفيذ واجهة برمجة تطبيقات RESTful لتكامل سلس. [academic]"
+          "en": "We implemented a RESTful API for seamless integration.",
+          "ar": "قمنا بتنفيذ واجهة برمجة تطبيقات RESTful لتكامل سلس."
         },
         {
           "id": 3,
-          "en": "Memory leaks can cause the application to crash over time. [academic]",
-          "ar": "يمكن أن تتسبب تسربات الذاكرة في تعطل التطبيق بمرور الوقت. [academic]"
+          "en": "Memory leaks can cause the application to crash over time.",
+          "ar": "يمكن أن تتسبب تسربات الذاكرة في تعطل التطبيق بمرور الوقت."
         },
         {
           "id": 4,
-          "en": "Polymorphism allows objects to be treated as instances of their parent class. [academic]",
-          "ar": "يسمح تعدد الأشكال بمعاملة الكائنات كنسخ من فئتها الأصلية. [academic]"
+          "en": "Polymorphism allows objects to be treated as instances of their parent class.",
+          "ar": "يسمح تعدد الأشكال بمعاملة الكائنات كنسخ من فئتها الأصلية."
         },
         {
           "id": 5,
-          "en": "Use version control to collaborate efficiently with your team. [academic]",
-          "ar": "استخدم التحكم في الإصدار للتعاون بكفاءة مع فريقك. [academic]"
+          "en": "Use version control to collaborate efficiently with your team.",
+          "ar": "استخدم التحكم في الإصدار للتعاون بكفاءة مع فريقك."
         },
         {
           "id": 6,
-          "en": "The algorithm's time complexity is strictly linear. [academic]",
-          "ar": "التعقيد الزمني للخوارزمية خطي تماماً. [academic]"
+          "en": "The algorithm's time complexity is strictly linear.",
+          "ar": "التعقيد الزمني للخوارزمية خطي تماماً."
         },
         {
           "id": 7,
-          "en": "Continuous integration automates the testing and deployment process. [academic]",
-          "ar": "التكامل المستمر يسهل أتمتة عملية الاختبار والنشر. [academic]"
+          "en": "Continuous integration automates the testing and deployment process.",
+          "ar": "التكامل المستمر يسهل أتمتة عملية الاختبار والنشر."
         },
         {
           "id": 8,
-          "en": "We need to optimize the SQL queries to reduce load times. [academic]",
-          "ar": "نحتاج إلى تحسين استعلامات SQL لتقليل أوقات التحميل. [academic]"
+          "en": "We need to optimize the SQL queries to reduce load times.",
+          "ar": "نحتاج إلى تحسين استعلامات SQL لتقليل أوقات التحميل."
         },
         {
           "id": 9,
-          "en": "Encapsulation hides the internal state of an object from the outside. [academic]",
-          "ar": "التغليف يخفي الحالة الداخلية للكائن عن الخارج. [academic]"
+          "en": "Encapsulation hides the internal state of an object from the outside.",
+          "ar": "التغليف يخفي الحالة الداخلية للكائن عن الخارج."
         },
         {
           "id": 10,
-          "en": "Ensure that the payload is serialized correctly before transmission. [academic]",
-          "ar": "تأكد من تسلسل حمولة البيانات بشكل صحيح قبل الإرسال. [academic]"
+          "en": "Ensure that the payload is serialized correctly before transmission.",
+          "ar": "تأكد من تسلسل حمولة البيانات بشكل صحيح قبل الإرسال."
         }
       ]
     },
@@ -1555,53 +1555,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "The microservices architecture decouples monolithic applications into modular, deployable components. [academic]",
-          "ar": "تقوم بنية الخدمات المصغرة بفصل التطبيقات المتجانسة إلى مكونات معيارية قابلة للنشر. [academic]"
+          "en": "The microservices architecture decouples monolithic applications into modular, deployable components.",
+          "ar": "تقوم بنية الخدمات المصغرة بفصل التطبيقات المتجانسة إلى مكونات معيارية قابلة للنشر."
         },
         {
           "id": 2,
-          "en": "Leveraging caching mechanisms significantly mitigates redundant database queries. [academic]",
-          "ar": "الاستفادة من آليات التخزين المؤقت تخفف بشكل كبير من استعلامات قاعدة البيانات المتكررة. [academic]"
+          "en": "Leveraging caching mechanisms significantly mitigates redundant database queries.",
+          "ar": "الاستفادة من آليات التخزين المؤقت تخفف بشكل كبير من استعلامات قاعدة البيانات المتكررة."
         },
         {
           "id": 3,
-          "en": "The consensus algorithm ensures fault tolerance across the distributed ledger nodes. [academic]",
-          "ar": "تضمن خوارزمية الإجماع التسامح مع الأخطاء عبر عقد دفتر الأستاذ الموزع. [academic]"
+          "en": "The consensus algorithm ensures fault tolerance across the distributed ledger nodes.",
+          "ar": "تضمن خوارزمية الإجماع التسامح مع الأخطاء عبر عقد دفتر الأستاذ الموزع."
         },
         {
           "id": 4,
-          "en": "We must containerize the dependencies to ensure parity across diverse environments. [academic]",
-          "ar": "يجب علينا تعبئة التبعيات في حاويات لضمان التكافؤ عبر البيئات المتنوعة. [academic]"
+          "en": "We must containerize the dependencies to ensure parity across diverse environments.",
+          "ar": "يجب علينا تعبئة التبعيات في حاويات لضمان التكافؤ عبر البيئات المتنوعة."
         },
         {
           "id": 5,
-          "en": "Idempotent HTTP methods guarantee that multiple identical requests yield the same state. [academic]",
-          "ar": "تضمن طرق HTTP ذات الفعالية المتطابقة أن الطلبات المتطابقة المتعددة تؤدي إلى نفس الحالة. [academic]"
+          "en": "Idempotent HTTP methods guarantee that multiple identical requests yield the same state.",
+          "ar": "تضمن طرق HTTP ذات الفعالية المتطابقة أن الطلبات المتطابقة المتعددة تؤدي إلى نفس الحالة."
         },
         {
           "id": 6,
-          "en": "Type erasure in generic programming removes type parameters during compilation. [academic]",
-          "ar": "إزالة النوع في البرمجة العامة تزيل معلمات النوع أثناء التجميع. [academic]"
+          "en": "Type erasure in generic programming removes type parameters during compilation.",
+          "ar": "إزالة النوع في البرمجة العامة تزيل معلمات النوع أثناء التجميع."
         },
         {
           "id": 7,
-          "en": "A race condition occurs when concurrent threads access shared memory asynchronously. [academic]",
-          "ar": "تحدث حالة السباق عندما تصل الخيوط المتزامنة إلى الذاكرة المشتركة بشكل غير متزامن. [academic]"
+          "en": "A race condition occurs when concurrent threads access shared memory asynchronously.",
+          "ar": "تحدث حالة السباق عندما تصل الخيوط المتزامنة إلى الذاكرة المشتركة بشكل غير متزامن."
         },
         {
           "id": 8,
-          "en": "We utilized a reverse proxy to balance the load and obfuscate the internal topology. [academic]",
-          "ar": "لقد استخدمنا وكيلاً عكسياً لموازنة الحمل وإخفاء الطوبولوجيا الداخلية. [academic]"
+          "en": "We utilized a reverse proxy to balance the load and obfuscate the internal topology.",
+          "ar": "لقد استخدمنا وكيلاً عكسياً لموازنة الحمل وإخفاء الطوبولوجيا الداخلية."
         },
         {
           "id": 9,
-          "en": "The garbage collector deterministically reclaims memory allocated to unreachable object graphs. [academic]",
-          "ar": "يستعيد جامع القمامة بشكل حتمي الذاكرة المخصصة لرسومات الكائنات التي لا يمكن الوصول إليها. [academic]"
+          "en": "The garbage collector deterministically reclaims memory allocated to unreachable object graphs.",
+          "ar": "يستعيد جامع القمامة بشكل حتمي الذاكرة المخصصة لرسومات الكائنات التي لا يمكن الوصول إليها."
         },
         {
           "id": 10,
-          "en": "Implementing OAuth2 provides a robust framework for federated identity delegation. [academic]",
-          "ar": "يوفر تنفيذ OAuth2 إطار عمل قوي لتفويض الهوية الموحدة. [academic]"
+          "en": "Implementing OAuth2 provides a robust framework for federated identity delegation.",
+          "ar": "يوفر تنفيذ OAuth2 إطار عمل قوي لتفويض الهوية الموحدة."
         }
       ]
     },
@@ -1610,53 +1610,53 @@
       "sentences": [
         {
           "id": 1,
-          "en": "Cryptographic hash functions obfuscate plain text via irreversible permutations to guarantee data integrity. [academic]",
-          "ar": "تقوم وظائف التجزئة التشفيرية بإخفاء النص العادي عبر تباديل لا رجعة فيها لضمان سلامة البيانات. [academic]"
+          "en": "Cryptographic hash functions obfuscate plain text via irreversible permutations to guarantee data integrity.",
+          "ar": "تقوم وظائف التجزئة التشفيرية بإخفاء النص العادي عبر تباديل لا رجعة فيها لضمان سلامة البيانات."
         },
         {
           "id": 2,
-          "en": "Heuristic anomalies detected within the neural network's hidden layers prompted a recalibration of the hyper-parameters. [academic]",
-          "ar": "أدت الحالات الشاذة الإرشادية المكتشفة داخل الطبقات المخفية للشبكة العصبية إلى إعادة معايرة المعلمات الفائقة. [academic]"
+          "en": "Heuristic anomalies detected within the neural network's hidden layers prompted a recalibration of the hyper-parameters.",
+          "ar": "أدت الحالات الشاذة الإرشادية المكتشفة داخل الطبقات المخفية للشبكة العصبية إلى إعادة معايرة المعلمات الفائقة."
         },
         {
           "id": 3,
-          "en": "Abstract Syntax Trees systematically delineate the hierarchical syntactic structure of source code for parsers. [academic]",
-          "ar": "تحدد أشجار بناء الجملة المجردة بشكل منهجي البنية النحوية الهرمية لكود المصدر للمحللات. [academic]"
+          "en": "Abstract Syntax Trees systematically delineate the hierarchical syntactic structure of source code for parsers.",
+          "ar": "تحدد أشجار بناء الجملة المجردة بشكل منهجي البنية النحوية الهرمية لكود المصدر للمحللات."
         },
         {
           "id": 4,
-          "en": "Asymptotic notation provides a generalized mathematical framework for analyzing an algorithm's worst-case computational viability. [academic]",
-          "ar": "يوفر التدوين المقارب إطاراً رياضياً معمماً لتحليل الجدوى الحسابية للخوارزمية في أسوأ الحالات. [academic]"
+          "en": "Asymptotic notation provides a generalized mathematical framework for analyzing an algorithm's worst-case computational viability.",
+          "ar": "يوفر التدوين المقارب إطاراً رياضياً معمماً لتحليل الجدوى الحسابية للخوارزمية في أسوأ الحالات."
         },
         {
           "id": 5,
-          "en": "The polymorphic dispatch mechanism incurs a minuscule overhead due to dynamic v-table resolutions at runtime. [academic]",
-          "ar": "تتكبد آلية الإرسال متعدد الأشكال حملاً ضئيلاً جداً بسبب دقة جدول v الديناميكي في وقت التشغيل. [academic]"
+          "en": "The polymorphic dispatch mechanism incurs a minuscule overhead due to dynamic v-table resolutions at runtime.",
+          "ar": "تتكبد آلية الإرسال متعدد الأشكال حملاً ضئيلاً جداً بسبب دقة جدول v الديناميكي في وقت التشغيل."
         },
         {
           "id": 6,
-          "en": "Implementing exponential backoff algorithms mitigates transient network congestion during retry attempts. [academic]",
-          "ar": "يؤدي تنفيذ خوارزميات التراجع الأسي إلى تخفيف ازدحام الشبكة العابر أثناء محاولات إعادة المحاولة. [academic]"
+          "en": "Implementing exponential backoff algorithms mitigates transient network congestion during retry attempts.",
+          "ar": "يؤدي تنفيذ خوارزميات التراجع الأسي إلى تخفيف ازدحام الشبكة العابر أثناء محاولات إعادة المحاولة."
         },
         {
           "id": 7,
-          "en": "Quantum entanglement facilitates instantaneous state correlation, circumventing classical cryptographic constraints. [academic]",
-          "ar": "يسهل التشابك الكمي الارتباط اللحظي للحالة، متجاوزاً القيود التشفيرية الكلاسيكية. [academic]"
+          "en": "Quantum entanglement facilitates instantaneous state correlation, circumventing classical cryptographic constraints.",
+          "ar": "يسهل التشابك الكمي الارتباط اللحظي للحالة، متجاوزاً القيود التشفيرية الكلاسيكية."
         },
         {
           "id": 8,
-          "en": "A closure encapsulates the lexical scope, thereby preserving variable references beyond the function's execution context. [academic]",
-          "ar": "يغلف الإغلاق النطاق المعجمي، وبالتالي يحافظ على مراجع المتغيرات خارج سياق تنفيذ الوظيفة. [academic]"
+          "en": "A closure encapsulates the lexical scope, thereby preserving variable references beyond the function's execution context.",
+          "ar": "يغلف الإغلاق النطاق المعجمي، وبالتالي يحافظ على مراجع المتغيرات خارج سياق تنفيذ الوظيفة."
         },
         {
           "id": 9,
-          "en": "Synchronous multiplexing paradigms often falter when juxtaposed with highly concurrent, event-driven architectures. [academic]",
-          "ar": "غالباً ما تتعثر نماذج تعدد الإرسال المتزامن عندما تقترن ببنيات مدفوعة بالأحداث وعالية التزامن. [academic]"
+          "en": "Synchronous multiplexing paradigms often falter when juxtaposed with highly concurrent, event-driven architectures.",
+          "ar": "غالباً ما تتعثر نماذج تعدد الإرسال المتزامن عندما تقترن ببنيات مدفوعة بالأحداث وعالية التزامن."
         },
         {
           "id": 10,
-          "en": "The orchestration engine dynamically provisions ephemeral instances to proactively accommodate fluctuating throughput demands. [academic]",
-          "ar": "يقوم محرك التنسيق بتوفير مثيلات سريعة الزوال ديناميكياً لاستيعاب متطلبات الإنتاجية المتقلبة بشكل استباقي. [academic]"
+          "en": "The orchestration engine dynamically provisions ephemeral instances to proactively accommodate fluctuating throughput demands.",
+          "ar": "يقوم محرك التنسيق بتوفير مثيلات سريعة الزوال ديناميكياً لاستيعاب متطلبات الإنتاجية المتقلبة بشكل استباقي."
         }
       ]
     }
