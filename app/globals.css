@@ -10,6 +10,34 @@ body {
   color: var(--foreground);
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
   min-height: 100vh;
+  /* Prevent overscroll bounce on iOS */
+  overscroll-behavior: none;
+}
+
+/* Remove the 300ms tap delay on all interactive elements */
+button, a, [role="button"] {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Prevent text selection flash on tap for the typing area */
+.typing-display {
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+/* The hidden input used on mobile — keeps it off-screen but focusable */
+.mobile-input {
+  position: fixed;
+  top: -999px;
+  left: -999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+  /* Disable autocorrect/autocomplete features */
+  autocomplete: "off";
 }
 
 @layer utilities {
@@ -34,4 +62,14 @@ body {
 @keyframes zoomIn {
   from { transform: scale(0.95); }
   to { transform: scale(1); }
+}
+
+/* Pulse for the "tap to start" indicator */
+@keyframes tapPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(0.97); }
+}
+
+.animate-tap-pulse {
+  animation: tapPulse 2s ease-in-out infinite;
 }
